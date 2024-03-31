@@ -1,6 +1,6 @@
 function App(){
    return <h1>
-    hello world!
+    hello world
    </h1>
 }
 export default App;
